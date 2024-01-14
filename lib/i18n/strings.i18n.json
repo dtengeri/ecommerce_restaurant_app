@@ -1,0 +1,42 @@
+{
+  "failedToLoad": "Failed to load",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "remove": "Remove",
+  "required": "Required",
+  "foods": {
+    "menu": "Menu",
+    "favourites": "Favourites",
+    "buy": "Buy"
+  },
+  "foodDetails": {
+    "notFound": "Food not found",
+    "addFavourite": "Add to favourites",
+    "removeFavourite": "Remove from favourites"
+  },
+  "basket": {
+    "title": "Basket",
+    "checkout": "Checkout",
+    "confirmRemove": "Are you sure you want to remove this item from your basket?",
+    "total": "Total"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "success": "Order placed successfully",
+    "error": "Error placing order",
+    "deliveryAddress": {
+      "name": "Name",
+      "nameIsRequired": "Name is required",
+      "street": "Street",
+      "streetIsRequired": "Street is required",
+      "city": "City",
+      "cityIsRequired": "City is required",
+      "phoneNumber": "Phone number",
+      "phoneNumberIsRequired": "Phone number is required",
+      "postalCode": "Postal code",
+      "postalCodeIsRequired": "Postal code is required"
+
+    }
+  }
+
+}

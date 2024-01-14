@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882600340312",
+    "project_id": "appinio-restaurant-app",
+    "storage_bucket": "appinio-restaurant-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882600340312:android:52c0b4ea7a77ec7071132d",
+        "android_client_info": {
+          "package_name": "com.dtengeri.ecommerce_restaurant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DtS6Wb3IqQXl9xIkGL_HI6AkhWmv3xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
